@@ -37,15 +37,15 @@ Dataset statistics: data_summary.ipynb
 ## Performance
 Accuracy and loss on test data:
 
-Test accuracy:  0.9859623312950134
+**Test accuracy:  0.9859623312950134**
 
 Test loss:  0.038746245205402374
 
-Training and Validation Accuracy curve:
+**Training and Validation Accuracy curve**:
 
 ![image](https://github.com/Chare7/NLP-Challenge-Polynomial-Expansion/blob/master/acc_history.png)
 
-Training and Validation Loss curve:
+**Training and Validation Loss curve**:
 
 ![image](https://github.com/Chare7/NLP-Challenge-Polynomial-Expansion/blob/master/loss_history.png)
 
