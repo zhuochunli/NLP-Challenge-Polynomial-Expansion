@@ -1,5 +1,5 @@
 # NLP-Challenge-Polynomial-Expansion
-Implement a deep neural network model that learns to expand single variable polynomials.
+Implement a deep neural network model that learns to expand single variable polynomials. Model input is factorized sequence and output is predicted expanded sequence.
 
 [Problem Details](https://github.com/Chare7/NLP-Challenge-Polynomial-Expansion/blob/master/NLP%20Challenge.docx)
 
